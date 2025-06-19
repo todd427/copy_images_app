@@ -1,0 +1,17 @@
+copy_images_app/
+├── .gitignore
+├── README.md          <-- generated earlier
+├── ACTIONS.md
+├── requirements.txt
+├── pipeline.sh
+├── batch_auto_color.jsx        <-- legacy JSX version
+├── rotation_checker.py
+├── copy_images.py
+├── file_date_sorter.py
+├── file_date_organizer.py
+└── uxp-auto-color/             <-- NEW UXP PANEL
+    ├── manifest.json
+    ├── index.html
+    ├── index.js
+    ├── batch_auto_color.js
+    ├── README.md

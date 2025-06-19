@@ -1,0 +1,24 @@
+{
+  "manifestVersion": 5,
+  "id": "com.todd427.copy_images_app.auto_color",
+  "name": "Image Auto Processor",
+  "version": "1.0.0",
+  "host": {
+    "app": "PS",
+    "minVersion": "23.0.0"
+  },
+  "main": "index.js",
+  "entrypoints": [
+    {
+      "type": "panel",
+      "id": "imageAutoPanel",
+      "label": "Image Auto Processor",
+      "icon": "./icon.png",
+      "panel": {
+        "mainPath": "./index.html",
+        "width": 300,
+        "height": 400
+      }
+    }
+  ]
+}
