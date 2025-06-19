@@ -1,0 +1,6 @@
+docs/
+├── index.md          <-- Main landing page
+├── uxp-panel.md      <-- UXP panel usage
+├── pipeline.md       <-- Full pipeline guide
+├── rotation-check.md <-- Rotation checker details
+└── _config.yml       <-- For GitHub Pages (optional)
