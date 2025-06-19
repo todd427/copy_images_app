@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logfile
+*.log
+sorter.log
+rotations.csv
+
+# Photoshop
+*.psb
+~*.psd
+~*.psb
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Archives
+*.zip
+*.tar.gz
+*.tar.bz2
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
